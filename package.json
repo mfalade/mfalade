@@ -1,0 +1,23 @@
+{
+  "name": "mfalade",
+  "version": "1.0.0",
+  "description": "Mayowa Falade's info.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfalade/mfalade.git"
+  },
+  "keywords": [
+    "mfalade",
+    "software engineer"
+  ],
+  "author": "Mayowa Falade <falademayowa240@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfalade/mfalade/issues"
+  },
+  "homepage": "https://github.com/mfalade/mfalade#readme"
+}
