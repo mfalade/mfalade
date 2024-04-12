@@ -1,6 +1,6 @@
 #### Welcome to my page!
 
-I'm a Fullstack Software Engineer who deeply enjoys building applications.
+I'm a Fullstack Software Engineer who *deeply* enjoys building applications.
 
 
 - 🛂 Fullname: **Mayowa Ayodeji Falade**
